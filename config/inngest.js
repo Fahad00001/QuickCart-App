@@ -1,7 +1,8 @@
 import { Inngest } from "inngest";
 import dbConnect from "./db";
 // import User from "@/models/User";
-import User from "../../../../models/User";
+import User from "../models/User";
+// import User from "../../../../models/User";
 
 import Order from "@/models/Order";
 
